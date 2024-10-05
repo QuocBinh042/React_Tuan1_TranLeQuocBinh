@@ -247,8 +247,6 @@ export default function App() {
 
   return (
     <ScrollView>
-
-
       <div>
         <h2>Task Results</h2>
         <p>5. Sum of numbers from 1 to 10: {sumOfNumbers()}</p>
